@@ -1,0 +1,24 @@
+{
+  "name": "hello_world_logger_node",
+  "version": "1.0.0",
+  "description": "Hello world in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Malyar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malbaron0/Hello_World_Logger_Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Malbaron0/Hello_World_Logger_Node/issues"
+  },
+  "homepage": "https://github.com/Malbaron0/Hello_World_Logger_Node#readme"
+}
